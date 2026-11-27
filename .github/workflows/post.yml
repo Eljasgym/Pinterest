@@ -5,10 +5,11 @@ on:
     - cron: "17 */4 * * *"   # alle 4 Stunden, Buffer Free hält nur 10 Pins pro Account
   workflow_dispatch:
     inputs:
-      dry_run:
-        description: "Nur anzeigen, nichts einplanen"
-        type: boolean
-        default: true
+      aktion:
+        description: "Was tun"
+        type: choice
+        options: ["--dry-run", "boards", "einplanen"]
+        default: "--dry-run"
 
 permissions:
   contents: write
@@ -28,7 +29,7 @@ jobs:
       - name: Einplanen
         env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
-        run: python3 poster.py ${{ github.event.inputs.dry_run == 'true' && '--dry-run' || '' }}
+        run: python3 poster.py ${{ github.event.inputs.aktion == 'einplanen' && '' || github.event.inputs.aktion }}
       - name: Stand speichern
         run: |
           git config user.name "pin-bot"
