@@ -4,9 +4,15 @@
   "queueLimit": 10,
   "accounts": {
     "hashtag-hairs": {
-      "channelId": "6b0866ab8541f09ecbb27e0d",
-      "boardServiceId": "",
-      "slots": ["08:30", "11:30", "14:30", "17:30", "20:30"],
+      "channelId": "6b0953098541f09ecbbf5c7b",
+      "boardServiceId": "250653604200380723",
+      "slots": [
+        "08:30",
+        "11:30",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
       "active": true
     }
   }
