@@ -1,0 +1,16 @@
+gloss-mode-radiance-reset-shampoo|https://monatglobal.com/wp-content/uploads/2026/09/MONAT-Gloss-Mode-Radiance-Reset-Shampoo_AUG_2026_filter_web.png
+gloss-mode-shine-mist|https://monatglobal.com/wp-content/uploads/2026/09/MONAT-Gloss-Mode-Detangle-Protect-Shine-Mist_AUG_2026_filter_web_.png
+gloss-mode-glow-drops|https://monatglobal.com/wp-content/uploads/2026/09/MONAT-Gloss-Mode-Glow-Drops_AUG_2026_filter_web.png
+renew-shampoo|https://monatglobal.com/wp-content/uploads/2021/10/RENEW-SHAMPOO-all-producs-page.png
+renew-conditioner|https://monatglobal.com/wp-content/uploads/2023/12/RENEW-CONDITIONER_ecomm-all_prods-min.png
+rejuveniqe-oil|https://monatglobal.com/wp-content/uploads/2021/07/REJUVENIQE%C2%AE-OIL-INTENSIVE.png
+restore-leave-in-conditioner|https://monatglobal.com/wp-content/uploads/2022/05/RESTORE-LEAVE-IN-CONDITIONER-ecomm-pic.png
+smoothing-shampoo|https://monatglobal.com/wp-content/uploads/2022/06/smoothing-anti-frizz-shampoo-all-prod.png
+replenish-masque|https://monatglobal.com/wp-content/uploads/2022/05/REPLENISH-MASQUE-ecomm-pic.png
+bond-iq-leave-in-creme|https://monatglobal.com/wp-content/uploads/2025/08/MONAT-BOND-IQ-Peptide-Therapy-Leave-In-Creme_ecomm-min.png
+hair-thermal-protectant|https://monatglobal.com/wp-content/uploads/2021/07/HEAT-PROTECTANT-SPRAY.png
+conditioning-dry-shampoo|https://monatglobal.com/wp-content/uploads/2021/07/CONDITIONING-DRY-SHAMPOO.png
+curl-cream|https://monatglobal.com/wp-content/uploads/2024/08/Curl-perfection-curl-defining-cream_ecom-all-prod-min.png
+scalp-serum|https://monatglobal.com/wp-content/uploads/2024/08/MONAT-Scalp-comfort-serum-ECOMM-2024-min-.png
+vinegar-scrub-shampoo|https://monatglobal.com/wp-content/uploads/2021/07/SCALP-PURIFYING-SCRUB.png
+volumizing-revive-shampoo|https://monatglobal.com/wp-content/uploads/2021/07/VOLUMIZING-REVIVE%E2%84%A2-SHAMPOO.png

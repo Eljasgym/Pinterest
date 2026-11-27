@@ -18,3 +18,11 @@ Plant Pins für MONAT-Partnerlinks über Buffer (Free) auf Pinterest ein. Läuft
 - GraphQL `https://api.buffer.com`, `Authorization: Bearer <key>`. Key unter publish.buffer.com/settings/api, als Secret `BUFFER_API_KEY` im Repo.
 - Pin: `createPost` mit `mode: customScheduled`, `dueAt`, `needsApproval: false`, `metadata.pinterest { boardServiceId title url }`. Ohne Pinnwand lehnt Pinterest ab.
 - Free: 150 Anfragen je 15 min, 600 je Tag.
+
+## Pins bauen
+- Inhalte stehen in `pins/quelle.json` (Formate `liste`, `mythos`, `routine`, `produkt`, Hintergrund `bg`, Produkt-Slug `produkt`). `python3 tools/render.py` baut fehlende Bilder mit Chrome headless und schreibt daraus `pins/pins.json` neu. Nie `pins/pins.json` von Hand ändern.
+- Hintergründe ("Vibes") im Dict `BG` in `tools/render.py`: leinen, aubergine, lavendel, marmor, sand. Neue Looks dort ergänzen.
+- Produktbilder: offizielle, schon freigestellte PNGs von monatglobal.com, zugeschnitten in `assets/produkte/<slug>.png`, Quellen in `assets/produkte/quellen.txt`. Produkt selbst nie verändern.
+- Link je Pin: `https://elipen11.mymonat.com/de/<slug>/`. Alle 42 Haarpflege-Slugs stehen im Shop unter `/de/products/?line=haircare` (Liste wird per JS geladen, nur im Browser auslesbar).
+- Verhältnis 4 Mehrwert zu 1 Produkt: jeder fünfte Eintrag in `quelle.json` ist `produkt`.
+- Zeilen variabel lang: dreizeilige Überschriften bei `mythos` drücken den Text ins Produkt, dann kürzen.

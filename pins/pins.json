@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "hh-001",
+    "account": "hashtag-hairs",
+    "format": "liste",
+    "image": "pins/bilder/hh-001.png",
+    "title": "5 Föhn-Fehler, die dein Haar stumpf machen",
+    "text": "Glanz verschwindet oft schon beim Föhnen. Diese fünf Fehler passieren fast jedem. Mit mittlerer Hitze, Hitzeschutz und Föhnen von oben nach unten bleiben die Längen glatter.",
+    "link": "https://elipen11.mymonat.com/de/hair-thermal-protectant/",
+    "alt": "Liste mit fünf Föhn-Fehlern und MONAT Hitzeschutzspray auf beigem Hintergrund"
+  },
+  {
+    "id": "hh-002",
+    "account": "hashtag-hairs",
+    "format": "mythos",
+    "image": "pins/bilder/hh-002.png",
+    "title": "Mythos: Haare gewöhnen sich an Shampoo",
+    "text": "Wenn das Lieblingsshampoo plötzlich anders wirkt, liegt es selten am Shampoo. Oft stecken Jahreszeit, hartes Wasser oder Stylingreste dahinter.",
+    "link": "https://elipen11.mymonat.com/de/volumizing-revive-shampoo/",
+    "alt": "Mythos und Fakt zu Shampoo mit MONAT Revive Shampoo auf lavendelfarbenem Hintergrund"
+  },
+  {
+    "id": "hh-003",
+    "account": "hashtag-hairs",
+    "format": "routine",
+    "image": "pins/bilder/hh-003.png",
+    "title": "Abendroutine für glänzende Längen in 4 Schritten",
+    "text": "Vier kleine Schritte am Abend, die morgens den Unterschied machen. Wenig Öl in die Spitzen, ein lockerer Zopf und ein glattes Kissen schonen die Längen über Nacht.",
+    "link": "https://elipen11.mymonat.com/de/rejuveniqe-oil/",
+    "alt": "Vier Schritte einer Abendroutine für Haare mit MONAT Rejuveniqe Öl auf dunklem Hintergrund"
+  },
+  {
+    "id": "hh-004",
+    "account": "hashtag-hairs",
+    "format": "liste",
+    "image": "pins/bilder/hh-004.png",
+    "title": "4 Zeichen, dass dein Haar Feuchtigkeit braucht",
+    "text": "Trockenes Haar zeigt es dir deutlich. Erkennst du dich in zwei dieser vier Zeichen wieder, lohnt sich eine Pflege mit mehr Feuchtigkeit.",
+    "link": "https://elipen11.mymonat.com/de/renew-conditioner/",
+    "alt": "Liste mit vier Zeichen für trockenes Haar und MONAT Renew Spülung auf Marmor"
+  },
+  {
+    "id": "hh-005",
+    "account": "hashtag-hairs",
+    "format": "produkt",
+    "image": "pins/bilder/hh-005.png",
+    "title": "Neu von MONAT: Gloss Mode Glow Drops",
+    "text": "Die neue Gloss Mode Linie von MONAT. Die Glow Drops kommen als letzter Schritt in die Längen und sorgen für sichtbaren Glanz. Alle Details findest du im Shop.",
+    "link": "https://elipen11.mymonat.com/de/gloss-mode-glow-drops/",
+    "alt": "MONAT Gloss Mode Glow Drops auf einem Podest vor sandfarbenem Hintergrund"
+  },
+  {
+    "id": "hh-006",
+    "account": "hashtag-hairs",
+    "format": "mythos",
+    "image": "pins/bilder/hh-006.png",
+    "title": "Mythos: Spliss kann man reparieren",
+    "text": "Gespaltene Spitzen wachsen nicht wieder zusammen, egal mit welchem Produkt. Was hilft: regelmäßig schneiden und die Spitzen danach gut pflegen.",
+    "link": "https://elipen11.mymonat.com/de/bond-iq-leave-in-creme/",
+    "alt": "Mythos und Fakt zu Spliss mit MONAT Bond IQ Leave-In-Creme auf beigem Hintergrund"
+  },
+  {
+    "id": "hh-007",
+    "account": "hashtag-hairs",
+    "format": "routine",
+    "image": "pins/bilder/hh-007.png",
+    "title": "Locken am Morgen auffrischen in 4 Schritten",
+    "text": "Second Day Curls ohne neue Wäsche. Leicht anfeuchten, etwas Creme einkneten und an der Luft trocknen lassen. So bleiben die Locken definiert.",
+    "link": "https://elipen11.mymonat.com/de/curl-cream/",
+    "alt": "Vier Schritte zum Auffrischen von Locken mit MONAT Curl Perfection Creme"
+  },
+  {
+    "id": "hh-008",
+    "account": "hashtag-hairs",
+    "format": "liste",
+    "image": "pins/bilder/hh-008.png",
+    "title": "3 Fehler beim Haarewaschen, die fast jeder macht",
+    "text": "Shampoo gehört auf die Kopfhaut, Spülung in die Längen. Und lauwarmes Wasser ist sanfter als heißes. Drei kleine Änderungen, die man sofort sieht.",
+    "link": "https://elipen11.mymonat.com/de/renew-shampoo/",
+    "alt": "Liste mit drei Fehlern beim Haarewaschen und MONAT Renew Shampoo auf lavendelfarbenem Hintergrund"
+  },
+  {
+    "id": "hh-009",
+    "account": "hashtag-hairs",
+    "format": "mythos",
+    "image": "pins/bilder/hh-009.png",
+    "title": "Mythos: Trockenshampoo ersetzt die Haarwäsche",
+    "text": "Trockenshampoo ist ideal für den Tag dazwischen. Auf Dauer ersetzt es aber keine Wäsche, denn Rückstände bleiben auf der Kopfhaut.",
+    "link": "https://elipen11.mymonat.com/de/conditioning-dry-shampoo/",
+    "alt": "Mythos und Fakt zu Trockenshampoo mit MONAT The Champ Trockenshampoo auf dunklem Hintergrund"
+  },
+  {
+    "id": "hh-010",
+    "account": "hashtag-hairs",
+    "format": "produkt",
+    "image": "pins/bilder/hh-010.png",
+    "title": "REJUVENIQE von MONAT: der Klassiker unter den Haarölen",
+    "text": "Einer der Klassiker von MONAT. Rejuveniqe ist ein Öl für Kopfhaut, Längen und Spitzen. Anwendung und Inhaltsstoffe findest du im Shop.",
+    "link": "https://elipen11.mymonat.com/de/rejuveniqe-oil/",
+    "alt": "MONAT Rejuveniqe Haaröl auf einem Podest vor lavendelfarbenem Hintergrund"
+  },
+  {
+    "id": "hh-011",
+    "account": "hashtag-hairs",
+    "format": "liste",
+    "image": "pins/bilder/hh-011.png",
+    "title": "5 Dinge, die Frizz auslösen",
+    "text": "Frizz entsteht oft durch Gewohnheiten. Haare ausdrücken statt rubbeln, glatte Kissenbezüge und mittlere Hitze machen schon viel aus.",
+    "link": "https://elipen11.mymonat.com/de/smoothing-shampoo/",
+    "alt": "Liste mit fünf Auslösern für Frizz und MONAT Smoothing Anti-Frizz Shampoo auf sandfarbenem Hintergrund"
+  },
+  {
+    "id": "hh-012",
+    "account": "hashtag-hairs",
+    "format": "routine",
+    "image": "pins/bilder/hh-012.png",
+    "title": "Haarmaske richtig anwenden: die Wochenroutine",
+    "text": "Eine Maske wirkt am besten auf handtuchfeuchtem Haar. Nur in Längen und Spitzen, zehn Minuten Zeit lassen, gut ausspülen. Einmal pro Woche reicht.",
+    "link": "https://elipen11.mymonat.com/de/replenish-masque/",
+    "alt": "Vier Schritte einer Haarmasken-Routine mit MONAT Replenish Maske auf Marmor"
+  },
+  {
+    "id": "hh-013",
+    "account": "hashtag-hairs",
+    "format": "mythos",
+    "image": "pins/bilder/hh-013.png",
+    "title": "Mythos: 100 Bürstenstriche machen Haare schön",
+    "text": "Der alte Tipp von früher schadet eher. Jeder Bürstenstrich ist Reibung. Lieber sanft von den Spitzen her entwirren, am besten mit etwas Leave-In.",
+    "link": "https://elipen11.mymonat.com/de/restore-leave-in-conditioner/",
+    "alt": "Mythos und Fakt zum Bürsten mit MONAT Restore Leave-In Conditioner auf sandfarbenem Hintergrund"
+  },
+  {
+    "id": "hh-014",
+    "account": "hashtag-hairs",
+    "format": "routine",
+    "image": "pins/bilder/hh-014.png",
+    "title": "Kopfhaut-Peeling: so geht die Wochenpflege",
+    "text": "Die Kopfhaut ist die Basis für schönes Haar. Einmal pro Woche ein sanftes Peeling entfernt Stylingreste. Nur einmassieren, nicht rubbeln.",
+    "link": "https://elipen11.mymonat.com/de/vinegar-scrub-shampoo/",
+    "alt": "Vier Schritte für ein Kopfhaut-Peeling mit MONAT Reinigungspeeling auf beigem Hintergrund"
+  },
+  {
+    "id": "hh-015",
+    "account": "hashtag-hairs",
+    "format": "produkt",
+    "image": "pins/bilder/hh-015.png",
+    "title": "MONAT Gloss Mode Glanz- und Entwirrungsspray",
+    "text": "Aus der neuen Gloss Mode Linie. Das Spray entwirrt, schützt und gibt Glanz in einem Schritt. Alle Details findest du im Shop.",
+    "link": "https://elipen11.mymonat.com/de/gloss-mode-shine-mist/",
+    "alt": "MONAT Gloss Mode Glanz- und Entwirrungsspray auf einem Podest vor Marmor"
+  }
+]
