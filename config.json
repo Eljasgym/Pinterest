@@ -1,0 +1,13 @@
+{
+  "organizationId": "6b0862e3ae4db1b13bc36790",
+  "timezone": "Europe/Berlin",
+  "queueLimit": 10,
+  "accounts": {
+    "hashtag-hairs": {
+      "channelId": "6b0866ab8541f09ecbb27e0d",
+      "boardServiceId": "",
+      "slots": ["08:30", "11:30", "14:30", "17:30", "20:30"],
+      "active": true
+    }
+  }
+}
