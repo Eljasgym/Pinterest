@@ -65,12 +65,14 @@ def pruefe(pin):
         fehler.append(f"Bild fehlt: {pin['image']}")
     if len(pin.get("title", "")) > 100:
         fehler.append("Titel über 100 Zeichen")
+    if len(pin.get("text", "")) > 500:
+        fehler.append("Text über 500 Zeichen")
     return fehler
 
 
 def mit_werbung(text):
     # Jeder Pin wird als Werbung gekennzeichnet, auch wenn es im Text vergessen wurde.
-    return text if "werbung" in text.lower() else f"{text}\n\nWerbung #werbung"
+    return text if "#werbung" in text.lower() else f"{text}\n\n#werbung"
 
 
 def naechste_slots(slots, tz, belegt, jetzt, tage=3):

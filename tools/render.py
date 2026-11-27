@@ -110,6 +110,12 @@ def baue(pin):
     print("gebaut", ziel)
 
 
+def text(p):
+    # Tipp-Text, dann #werbung als erster Hashtag (Kennzeichnung), dann die Themen-Tags.
+    tags = ["werbung"] + [t for t in p.get("tags", []) if t != "werbung"]
+    return p["text"] + "\n\n" + " ".join("#" + t for t in tags)
+
+
 def main():
     quelle = json.load(open(os.path.join(HIER, "pins/quelle.json"), encoding="utf-8"))
     alle = "--alle" in sys.argv
@@ -119,7 +125,7 @@ def main():
         if alle or pin["id"] in nur or (not nur and not os.path.exists(bild)):
             baue(pin)
     pins = [{"id": p["id"], "account": p.get("account", KONTO), "format": p["format"],
-             "image": f"pins/bilder/{p['id']}.png", "title": p["title"], "text": p["text"],
+             "image": f"pins/bilder/{p['id']}.png", "title": p["title"], "text": text(p),
              "link": SHOP.format(p["produkt"]), "alt": p["alt"]} for p in quelle]
     with open(os.path.join(HIER, "pins/pins.json"), "w", encoding="utf-8") as f:
         json.dump(pins, f, ensure_ascii=False, indent=2)

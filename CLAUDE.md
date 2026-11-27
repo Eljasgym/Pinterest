@@ -10,7 +10,7 @@ Plant Pins für MONAT-Partnerlinks über Buffer (Free) auf Pinterest ein. Läuft
 - `poster.py`: nur Standardbibliothek. `--dry-run` zeigt nur an, `boards` listet die Pinnwand-IDs.
 
 ## Regeln im Code
-- Jeder Text bekommt "Werbung #werbung", falls das Wort fehlt.
+- Jeder Text bekommt "#werbung", falls es fehlt. Text höchstens 500 Zeichen.
 - Wörter in `VERBOTEN` (Heilversprechen, Vorher-Nachher) lassen den Pin aus.
 - Buffer Free hält nur 10 geplante Posts pro Kanal. Das Skript zählt über `state.json`, nicht über Buffer. Pins, die jemand von Hand in Buffer plant, zählt es nicht mit.
 
@@ -25,4 +25,5 @@ Plant Pins für MONAT-Partnerlinks über Buffer (Free) auf Pinterest ein. Läuft
 - Produktbilder: offizielle, schon freigestellte PNGs von monatglobal.com, zugeschnitten in `assets/produkte/<slug>.png`, Quellen in `assets/produkte/quellen.txt`. Produkt selbst nie verändern.
 - Link je Pin: `https://elipen11.mymonat.com/de/<slug>/`. Alle 42 Haarpflege-Slugs stehen im Shop unter `/de/products/?line=haircare` (Liste wird per JS geladen, nur im Browser auslesbar).
 - Verhältnis 4 Mehrwert zu 1 Produkt: jeder fünfte Eintrag in `quelle.json` ist `produkt`.
+- Texte im Ton "Tipps an die Girls": duzen ("ihr", "Mädels"), persönlich, ein bis zwei Emojis, keine Heilversprechen. Hashtags in `tags` ohne #, render.py setzt `#werbung` immer als ersten Hashtag davor (Kennzeichnungspflicht, nicht ans Ende schieben).
 - Zeilen variabel lang: dreizeilige Überschriften bei `mythos` drücken den Text ins Produkt, dann kürzen.
